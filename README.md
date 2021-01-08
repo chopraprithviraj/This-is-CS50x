@@ -16,4 +16,5 @@
 | [Week 9](https://cs50.harvard.edu/x/2020/project/) | Final Project                     | 
 
 <h1 align="center">CS50x Certificate !<h1>
+
 ![](CS50x.png)
