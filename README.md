@@ -1,4 +1,4 @@
-# This is CS50x
+<h1 align="center">This is CS50</h1>
 <p align="center">Introduction to the scholarly ventures of software engineering and the specialty of programming. This course shows understudies how to think algorithmically and tackle issues effectively. Points incorporate deliberation, calculations, information structures, epitome, asset the executives, security, and computer programming. Dialects incorporate C, Python, and SQL in addition to understudies' decision of: HTML, CSS, and JavaScript (for web advancement); Java or Swift (for portable application improvement); or Lua (for game turn of events). Issue sets roused by human expressions, humanities, sociologies, and sciences. Course comes full circle in a last venture. Intended for concentrators and non-concentrators the same, with or without earlier programming experience. 66% of CS50 understudies have never taken CS before. The course's general objectives are to motivate understudies to investigate new waters, unafraid of disappointment, make an escalated, shared insight, open to all understudies, and assemble network among understudies.</p>
 
 ## Course Structure
@@ -15,5 +15,5 @@
 | [Week 8](https://cs50.harvard.edu/x/2020/weeks/8/) | Web Track                         | 
 | [Week 9](https://cs50.harvard.edu/x/2020/project/) | Final Project                     | 
 
-# CS50x Certificate !
+<h1 align="center">CS50x Certificate !<h1>
 ![](CS50x.png)
